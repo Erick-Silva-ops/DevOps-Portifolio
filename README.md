@@ -129,7 +129,7 @@ Antes de começar, certifique-se de ter instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone <seu-repositorio>.git
+git clone https://github.com/RickTheBoy-ops/Portif-lio-DevOps.git
 cd portifolio-devops
 ```
 
@@ -329,6 +329,5 @@ Este projeto demonstra a base fundamental de um Engenheiro DevOps/SRE Júnior:
 
 ---
 
-> **Feito com ❤️ por** | [Seu Nome]  
-> **Perfil LinkedIn:** | [Seu LinkedIn]  
-> **GitHub:**          | [Seu GitHub]
+> **Feito por** | [Erick Silva]  
+> **Perfil LinkedIn:** | [www.linkedin.com/in/erick-vinicius-3b9410197]  
